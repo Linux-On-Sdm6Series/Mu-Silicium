@@ -1,0 +1,8 @@
+[Defines]
+  DEC_SPECIFICATION                   = 0x00010005
+  PACKAGE_NAME                        = x00td
+  PACKAGE_GUID                        = 9A1384E0-255C-4357-92D9-6005F84D3B22
+  PACKAGE_VERSION                     = 0.1
+
+[Guids]
+  gnitrogenTokenSpaceGuid             = { 0xE084139A, 0x5C25, 0x5743, { 0x92, 0xD9, 0x60, 0x05, 0xF8, 0x4D, 0x3B, 0x22 } }
